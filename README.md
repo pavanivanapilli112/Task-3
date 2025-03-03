@@ -63,4 +63,4 @@ WB stage: Illustrates the final result ready for output.
 The design and simulation of the 4-stage pipelined processor successfully demonstrate how pipelining improves instruction throughput by overlapping the execution of multiple instructions. The processor, although simple, simulates essential stages of modern processors. The use of VCD files and waveform visualization tools like GTKWave provides a detailed view of the operations in each pipeline stage, making the simulation and analysis of processor behavior more intuitive. By generating and analyzing waveforms, one can trace the movement of instructions through the pipeline, observe potential hazards, and understand the basic principles behind pipelined execution in processors. This project lays the foundation for more advanced processor designs and optimizations in the future.
 
 ### Output: 
-![output]()
+![output](https://github.com/pavanivanapilli112/Task-3/blob/main/IMG-20250303-WA0007.jpg)
